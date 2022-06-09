@@ -1,5 +1,7 @@
 # ⭐️ The Steps in Data Mining
 
+![스크린샷 2022-06-09 오후 3 09 25](https://user-images.githubusercontent.com/74564995/172776681-c852fc05-3461-4c11-9bb8-73044ee6e780.png)
+
 ## [Preprocessing, Prelimiary process Step]
 
 ### 1. Develop an understanding of the purpose of the data mining project
